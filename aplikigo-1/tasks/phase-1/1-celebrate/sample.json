@@ -1,10 +1,14 @@
 {
-    "moniker": "",
-    "valopr_address": "",
+    "moniker": "begreen-ny",
+    "valopr_address": "regen:valoper1xq3aq5ctyj3knu32usn66df9a67n0sf7ts5qdn",
     "sendTxHashes": ["hash1", "hash2"],
     "delegateTxHashes": ["hash1", "hash2"],
     "tweetMemoTx": "",
+    "tweetMemoUrl": "https://twitter.com/gotjoshua/status/1359104537362104325",
     "linkedInPostMemoTx": "",
+    "linkedInPostMemoUrl": "",
     "memoWithDiscordHandleTxHash": "",
+    "memoWithDiscordHandleUrl": "",
+    "blogpostTx": "",
     "blogpostUrl": "medium.com/..."
 }

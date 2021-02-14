@@ -54,6 +54,10 @@
     - Note: Teams are eligible for this reward only if they vote on the proposal
 
 ## Phase - 2: Regen Times  - max 600 points [TBD]
+- Second stress test with three categories of rewards: (Point distribution TBD)
+   1. Average tx/block over the whole 3hrs
+   2. Max tx in a single block
+   3. Number of blocks with at least 1 tx
 - Upgrade proposal to enable IBC transfers
 - Test IBC Transfers of $REGEN token
 - Test eco-credit module
